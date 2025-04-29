@@ -87,6 +87,8 @@ if __name__ == '__main__':
         # Requested
         # "StuBru - De Tijdloze - Live Radio": "be.studiobrusseldetijdloze",
         # "StuBru - Bruut - Live Radio": "be.studiobrusselbruut",
+        # "StuBru - Vuurland - Live Radio": "https://radio-online-belgie.com/playlist/stubru-vuurland",
+    
 
         # "TOPradio - TOPretroarena - Live Radio": "be.topretroarena", # will have quite some incorrect ones because of multiple dj mix sets
         # "TOPradio - TOPtechno - Live Radio": "be.topselection", # somehow empty https://onlineradiobox.com/be/topselection/playlist/?cs=be.topselection
